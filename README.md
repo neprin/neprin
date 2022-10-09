@@ -36,8 +36,14 @@ me.sayHi()
 <a href="https://t.me/neprin">
   <img align="left" alt="Neprin's Telegram" width="30px" src="https://ico.now.sh/telegram/4281BE" />
 </a>
-<a href="https://t.me/neprin">
+<a href="https://twitter.com/mrneprin">
   <img align="left" alt="Neprin's Twitter" width="30px" src="https://ico.now.sh/twitter/4281BE" />
+</a>
+<a href="mailto:durdtpr@protonmail.com">
+  <img align="left" alt="Neprin's Mail" width="30px" src="https://ico.now.sh/protonmail/4281BE" />
+</a>
+<a href="https://matrix.to/#/@durdtpr:matrix.org">
+  <img align="left" alt="Neprin's Matrix" width="30px" src="https://ico.now.sh/matrix/4281BE" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
