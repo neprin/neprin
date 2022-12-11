@@ -6,7 +6,7 @@
 </picture>
 
 ```swift
-class IOSDeveloper {
+struct IOSDeveloper {
     let name = "Pavel Neprin"
     var position = "iOS Developer"
     var languageSpoken = ["ru_RU", "en_US"]
