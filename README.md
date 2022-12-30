@@ -48,7 +48,7 @@ me.sayHi()
 
 &nbsp;&nbsp;&nbsp;
 
-<details><summary>GitHub stats</summary>
+<!-- <details><summary>GitHub stats</summary>
 <p>
 
 <picture>
@@ -66,7 +66,7 @@ me.sayHi()
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neprin&label=Profile%20views&color=0e75b6&style=flat" alt="neprin" /> </p>
-</details>
+</details> -->
 
 <!---
 neprin/neprin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
