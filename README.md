@@ -20,7 +20,7 @@ let me = IOSDeveloper()
 me.sayHi()
 ```
 
-### Technologies & Tools 🏴‍☠️
+> ### Technologies & Tools 🏴‍☠️
 
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white) 
 ![](https://img.shields.io/badge/OS-Tails-informational?style=flat&logo=tails&logoColor=white) 
@@ -48,59 +48,31 @@ me.sayHi()
 &nbsp;&nbsp;&nbsp;
 
 ---
-### Pinned Repositories 
+
+<details open>
+<summary>Pinned Repositories</summary>
+<br>
 
 <a href="https://github.com/neprin/Aurora">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Aurora&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Aurora&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/neprin/Norn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Norn&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Norn&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/neprin/Rick-and-Morty">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Rick-and-Morty&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Rick-and-Morty&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/neprin/Notes">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Notes&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Notes&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
 </a>
 
-
-<!-- GitHub Stats -- >
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
-
-<!-- <details><summary>GitHub stats</summary>
-<p>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Neprin&theme=onedark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Neprin&hide_border=true" />
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=neprin&theme=onedark&show_icons=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=neprin&theme=default&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=neprin&layout=compact&theme=onedark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neprin&layout=compact&theme=default&hide_border=true" />
-</picture>
-
+&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neprin&label=Profile%20views&color=0e75b6&style=flat" alt="neprin" /> </p>
-</details> -->
 
-<!---
-neprin/neprin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</details>
