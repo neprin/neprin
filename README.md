@@ -73,6 +73,6 @@ me.sayHi()
 </a>
 
 &nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neprin&label=Profile%20views&color=0e75b6&style=flat" alt="neprin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neprin&label=Profile%20views&style=flat" alt="neprin" /> </p>
 
 </details>
