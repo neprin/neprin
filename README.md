@@ -1,4 +1,4 @@
-## Hello there 👨‍💻
+### Hello there 👨‍💻
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=18&pause=1000&color=FFFFFF&background=1DFF2600&width=435&height=30&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+something+cool;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+SwiftUI;%F0%9F%93%8D++Love+for+science+and+innovation">
@@ -20,7 +20,7 @@ let me = IOSDeveloper()
 me.sayHi()
 ```
 
-## Technologies & Tools 🏴‍☠️
+### Technologies & Tools 🏴‍☠️
 
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white) 
 ![](https://img.shields.io/badge/OS-Tails-informational?style=flat&logo=tails&logoColor=white) 
@@ -32,7 +32,7 @@ me.sayHi()
 ![](https://img.shields.io/badge/Monero-informational?style=flat&logo=monero&logoColor=white) 
 ![](https://img.shields.io/badge/Wireguard-informational?style=flat&logo=wireguard&logoColor=white) 
 
----
+&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/neprin">
   <img align="left" alt="Neprin's Telegram" width="30px" src="https://ico.now.sh/telegram/4281BE" />
 </a>
@@ -45,8 +45,40 @@ me.sayHi()
 <a href="https://matrix.to/#/@durdtpr:matrix.org">
   <img align="left" alt="Neprin's Matrix" width="30px" src="https://ico.now.sh/matrix/4281BE" />
 </a>
-
 &nbsp;&nbsp;&nbsp;
+
+---
+### Pinned Repositories 
+
+<a href="https://github.com/neprin/Aurora">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Aurora&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/neprin/Norn">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Norn&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/neprin/Rick-and-Morty">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Rick-and-Morty&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/neprin/Notes">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Notes&title_color=4281BE&text_color=c9cacc&icon_color=4281BE&bg_color=1DFF2600" />
+</a>
+
+
+<!-- GitHub Stats -- >
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
 
 <!-- <details><summary>GitHub stats</summary>
 <p>
