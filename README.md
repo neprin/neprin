@@ -54,25 +54,19 @@ me.sayHi()
 <br>
 
 <a href="https://github.com/neprin/Aurora">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Aurora&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Aurora&theme=transparent" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/neprin/Norn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Norn&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Norn&theme=transparent" />
 </a>
-
 <br>
-<br>
-
 <a href="https://github.com/neprin/Rick-and-Morty">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Rick-and-Morty&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Rick-and-Morty&theme=transparent" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/neprin/Notes">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Notes&title_color=4281BE&icon_color=4281BE&bg_color=1DFF2600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Notes&theme=transparent" />
 </a>
 
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neprin&label=Profile%20views&style=flat" alt="neprin" /> </p>
-
 </details>
