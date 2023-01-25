@@ -54,17 +54,17 @@ me.sayHi()
 <br>
 
 <a href="https://github.com/neprin/Aurora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Aurora&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Aurora&theme=transparent&hide_rank=true" />
 </a>
 <a href="https://github.com/neprin/Norn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Norn&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Norn&theme=transparent&hide_rank=true" />
 </a>
 <br>
 <a href="https://github.com/neprin/Rick-and-Morty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Rick-and-Morty&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Rick-and-Morty&theme=transparent&hide_rank=true" />
 </a>
 <a href="https://github.com/neprin/Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Notes&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neprin&repo=Notes&theme=transparent&hide_rank=true" />
 </a>
 
 &nbsp;
