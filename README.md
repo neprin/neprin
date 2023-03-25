@@ -33,13 +33,13 @@ me.sayHi()
 ![](https://img.shields.io/badge/Wireguard-informational?style=flat&logo=wireguard&logoColor=white) 
 
 &nbsp;&nbsp;&nbsp;
-<a href="https://t.me/neprin">
+<a href="https://t.me/neprinlive">
   <img align="left" alt="Neprin's Telegram" width="30px" src="https://ico.now.sh/telegram/4281BE" />
 </a>
 <a href="https://twitter.com/mrneprin">
   <img align="left" alt="Neprin's Twitter" width="30px" src="https://ico.now.sh/twitter/4281BE" />
 </a>
-<a href="mailto:durdtpr@protonmail.com">
+<a href="mailto:durdtpr+git@protonmail.com">
   <img align="left" alt="Neprin's Mail" width="30px" src="https://ico.now.sh/protonmail/4281BE" />
 </a>
 <a href="https://matrix.to/#/@durdtpr:matrix.org">
